@@ -1,0 +1,1 @@
+this section is to practice how to use descendant combinator. to add style on the descendant, we need to specify the parent(container) class by using ".container" and the child(text) class by using " .text"
